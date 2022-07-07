@@ -1,5 +1,5 @@
 {
-  "name": "tm-imgix-palette",
+  "name": "imgix-palette-helper",
   "version": "1.0.0",
   "description": "A small helper for working with the '?palette' parameter of imgix-served images.",
   "main": "index.js",
